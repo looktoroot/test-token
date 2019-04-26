@@ -1,3 +1,10 @@
 {
-  "token": "ajkahgsdfj"
+  [
+    {
+      "token": "ajkahgsdfj"
+    },
+    {
+      "test": "test"
+    }
+  ]
 }
